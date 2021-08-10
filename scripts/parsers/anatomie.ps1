@@ -5,7 +5,7 @@ foreach($item in $csv) {
 	Write-Output $i
 	$i += 1
 	# yes this is ugly
-	$yaml = "# https://github.com/sannennetarou/DufteRanatomie card`n"
+	$yaml = "# Original: https://github.com/sannennetarou/DufteRanatomie/blob/main/cards/anatomie/"+$item.noteid.replace("'","''")+".yaml`n"
 	$yaml += 'guid: '''+$item.guid.replace("'","''")+"'`n"
 	$yaml += "`n"
 	$yaml += 'noteid: '''+$item.noteid.replace("'","''")+"'`n"
