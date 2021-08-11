@@ -28,7 +28,7 @@ Gebt dafür in das Fenster "**_URL_**" einfach `https://github.com/sannennetarou
 1. CrowdAnki erlaubt es nicht, [das Deck ohne Deckoptionen zu ex-/importieren](https://github.com/Stvad/CrowdAnki/issues/61). Mit jeder Aktualisierung werden Deckeinstellungen (z.B. #Neue Karten, Lernschritte) verändert.
 Du musst also nach jedem Update manuell zur gewünschten Deckeinstellung wechseln.
 
-2. CrowdAnki erzeugt bei Updates manchmal ein neues Deck. Karten werden, sofern du beim Importieren nicht "Do not move existing cards" anclickst, in ein neues Deck verschoben. Das leere Deck kannst du dann löschen.
+2. CrowdAnki erzeugt bei Updates manchmal ein neues Deck oder einen neuen Note Type. Karten werden, sofern du beim Importieren nicht "Do not move existing cards" anclickst, in ein neues Deck verschoben. Das leere Deck kannst du dann löschen.
 
 ### Diese beiden Probleme gibt es bei .apkg-releases nicht
 
