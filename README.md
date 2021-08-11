@@ -18,7 +18,7 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 ### Eine ausführliche Guide mit Richtlinien für Korrekturen findest du [hier](https://github.com/sannennetarou/DufteRanatomie/blob/main/CONTRIBUTING.md).
 
 # Manuelles aktualisieren des Decks
-Benutzer des Addons [CrowdAnki](https://ankiweb.net/shared/info/1788670778) können jeder Zeit über "File -> CrowdAnki: Import git repository" die aktuellste Version des Decks runterladen. Der aktuellste Stand entspricht dem Alter der Datei `DufteRanatomie.json`.
+Benutzer des Addons [CrowdAnki](https://ankiweb.net/shared/info/1788670778) können jeder Zeit über "File -> CrowdAnki: Import git repository" die aktuelle Version des Decks runterladen. Der neueste Stand entspricht dem Alter der Datei `DufteRanatomie.json`.
 
 Wenn genug Fehler korrigiert werden, geben wir eine .apkg zum Download, die eine Aktualisierung auch für Nutzer ohne Addon ermöglicht.
 
