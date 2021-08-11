@@ -8,6 +8,12 @@
   * [Tags](#tags)
 - [Einreichen der Änderung](#einreichen-der-änderung)
 
+# News
+Die .yaml-Files haben jetzt jeweils in der ersten Zeile einen Link zum englischen Original. Dann kannst du bei inhaltlichen Fehlern oder Unklarheiten auch direkt mit der ursprünglichen Version vergleichen.
+
+<p align="center"><kbd><img width="800" alt="Screenshot 2021-08-11 at 10 11 28" src="https://user-images.githubusercontent.com/85392967/128994113-f0ab5304-01b5-44b8-a41d-31ad5fa8c2c6.png"></kbd></p>
+
+
 # Guidelines
 ## Allgemeine Informationen
 **Updates zum Deck umfassen zur Zeit:**
