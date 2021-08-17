@@ -1,5 +1,5 @@
 # Deckmanagement
-### In diesem Dokument halte ich fest, wie ich das Deck im- bzw. exportiere.
+### In diesem Dokument ist festgehalten, wie man das Deck in bzw. aus GitHub im- bzw. exportiere.
 
 Der Import- und Exportprozess basiert auf [Brainbrew](https://github.com/ohare93/brain-brew) und [CrowdAnki](https://github.com/Stvad/CrowdAnki).
 Die Skripte wurden in PowerShell, Python und bash geschrieben.
