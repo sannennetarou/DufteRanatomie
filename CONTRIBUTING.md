@@ -1,11 +1,13 @@
+- [News](#news)
 - [Guidelines](#guidelines)
-  * [Allgemeine Informationen](#allgemeine-informationen)
-  * [Schema der Übersetzung](#schema-der-übersetzung)
+  - [Allgemeine Informationen](#allgemeine-informationen)
+  - [Schema der Übersetzung](#schema-der-übersetzung)
 - [Bearbeiten einer Karte](#bearbeiten-einer-karte)
-  * [Editor](#editor)
-    + [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
-    + [HTML-Quelltext aus Anki-iOS](#html-quelltext-aus-anki-ios)
-  * [Tags](#tags)
+    - [Wenn du den Editor zum ersten mal öffnest, musst du zunächst "Fork Repository" auswählen. Dadurch wird auf deinem Account eine Kopie hinterlegt, auf der deine Änderungen zwischengespeichert werden. Das passiert danach alles im Hintergrund, mach dir also keine Gedanken.](#wenn-du-den-editor-zum-ersten-mal-öffnest-musst-du-zunächst-fork-repository-auswählen-dadurch-wird-auf-deinem-account-eine-kopie-hinterlegt-auf-der-deine-änderungen-zwischengespeichert-werden-das-passiert-danach-alles-im-hintergrund-mach-dir-also-keine-gedanken)
+  - [Editor](#editor)
+    - [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
+    - [HTML-Quelltext aus Anki-iOS](#html-quelltext-aus-anki-ios)
+  - [Tags](#tags)
 - [Einreichen der Änderung](#einreichen-der-änderung)
 
 # News
@@ -82,6 +84,7 @@ Damit Formattierung (**fett**, _kursiv_, Zeilenumbrüche, etc.) nicht verloren g
   Feldname2: 'Inhalt des zweiten Felds'
   ```
 Aufgrund der aktuell horrenden Implementierung unseres Programms darf der Text allerdings _keine Gänsefüßchen_ enthalten. Weder einfach noch doppelt.
+Als Alternative können die HTML-Entities ```&apos; = '```, ```&quot; = "```, ```&bdquo; = „``` und ```&ldquo; = “``` verwendet werden.
 
 ### HTML-Quelltext aus Anki-Desktop
 Der Shortcut für HTML-View ist "_CMD+Shift+x_" bzw. "_CTRL+Shift+x_" aus dem Karten-Editor. Diesen öffnest du mit der Taste "_E_" beim reviewen.
