@@ -39,5 +39,6 @@ tags:
 - 'DopeRanatomy::#RANATOMY,'
 - 'DopeRanatomy::Region::Thorax,'
 - 'DopeRanatomy::System::Cardiovascular::Heart,'
+- 'Dufte::#RANATOMIE,'
 - 'Dufte::Region::Thorax,'
-- 'Dufte::System::Herz-Kreislauf::Herz'
+- 'Dufte::System::Kardiovaskulär::Herz'
