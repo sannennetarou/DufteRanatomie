@@ -59,6 +59,7 @@ _Klassen_ (Nervus, Nodus, Arteria, etc.) sollten bitte nach diesem Schema abgek√
 |      Ligamentum   |      Lig.         |      Ligg.        |
 |      Nervus       |      N.           |      Nn.          |
 |      Nodus        |      Nd.          |      Ndd.         |
+| Nodus lymphaticus |      Nl.          |      Nll.         |
 |      ...          |      ...          |      ...          |
 
 # Bearbeiten einer Karte
