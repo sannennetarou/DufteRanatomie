@@ -57,7 +57,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
-    "name": "DopeRanatomy",
+    "name": "DufteRanatomie",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -356,7 +356,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "DopeRanatomy-Anatomy",
+            "name": "DufteRanatomie",
             "req": [
                 [
                     0,
@@ -536,7 +536,7 @@
             ],
             "sortf": 13,
             "tags": [
-                "DopeRanatomy::Notetype"
+                "Dufte::Notetype"
             ],
             "tmpls": [
                 {
