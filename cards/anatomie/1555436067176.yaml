@@ -6,8 +6,8 @@ noteid: '1555436067176'
 Title: 'Vas (ductus) Deferens'
 
 OccludedImage: '<img src="paste-00fb304a3961d270529e1bb5252637c77b41b69b.jpg">'
-Clinical: '<img src="paste-a38a1f07294f796bdfad85d737abbe27037b50db.jpg"><br>Vasectomy is a minor surgical method that produces permanent sterility. When safely performed—usually as an outpatient procedure under local anesthesia—it is a safe method of male contraception. Serious acute postoperative complications are very rare. Microsurgery can reverse vasectomy and restore fertility, but is successful in only about 70% of cases.'
-Comment: '<img src="paste-07840c770c639f17abef8c5bf8038b9ebfa1b167.jpg"><br>Comment: The vas (ductus) deferens is a hollow tube, about 5 to 40 cm long, that extends from the tail of the epididymis to the region of the prostate, where it joins the duct of the seminal vesicle to form the ejaculatory duct. Grossly it is divided into several regions, and histologically its wall is composed of mucosa, muscularis, and adventitia. Its lumen, which has a diameter of about 0.5 cm, is lined by pseudostratified columnar epithelium. Tall columnar cells with apical stereocilia and small basal (stem) cells comprise the epithelium. When partially or fully contracted, a thick triple-layered coat of smooth muscle (1 to 1.5 mm thick) appears to throw the mucosa into longitudinal folds.'
+Clinical: '<b>Vasectomy</b> is a minor surgical method that produces permanent <b>sterility</b>. When safely performed - usually as an outpatient procedure under local anesthesia - it is a safe method of <b>male contraception</b>. Serious acute postoperative complications are very rare. Microsurgery can reverse vasectomy and restore fertility, but is successful in only about 70% of cases.'
+Comment: '<b>Comment:</b> The vas (ductus) deferens is a hollow tube, about 5 to 40 cm long, that extends from the tail of the epididymis to the region of the prostate, where it joins the duct of the seminal vesicle to form the ejaculatory duct. Grossly it is divided into several regions, and histologically its wall is composed of mucosa, muscularis, and adventitia. Its lumen, which has a diameter of about 0.5 cm, is lined by pseudostratified columnar epithelium. Tall columnar cells with apical stereocilia and small basal (stem) cells comprise the epithelium. When partially or fully contracted, a thick triple-layered coat of smooth muscle (1 to 1.5 mm thick) appears to throw the mucosa into longitudinal folds.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Vas_Deferens'
 

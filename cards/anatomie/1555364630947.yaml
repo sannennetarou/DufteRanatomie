@@ -6,8 +6,8 @@ noteid: '1555364630947'
 Title: 'Vasculature of the Dermis'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.43.58 PM.png">'
-Clinical: '<img src="paste-e02e91ef9cfab4301ff7d20e172dbcfe6c1902ea.jpg"><br>Scleroderma is a rare chronic disorder of dermal connective tissue, and is characterized by tightening of skin and extensive deposition of collagen. Its “histologic picture” includes occluded microvasculature and lymphocytic infiltration into subcutaneous connective tissue.'
-Comment: '<img src="paste-f0ec1b590db059316867ed7c173dd325be462b5f.jpg"><br>Comment: The dermis, a richly vascularized connective tissue, provides mechanical support, pliability, and tensile strength to skin. Cutaneous blood vessels furnish nutrients to skin and are involved in thermoregulation. Large muscular arteries in the subcutaneous connective tissue that supply the skin are accompanied by muscular veins. A network of smaller vessels constitutes the deep (cutaneous) plexus. It communicates with a more superficial (Subpapillary) plexus immediately under dermal papillae. Many arteriovenous anastomoses are in deep layers of the dermis. These specialized structures, known as glomus bodies, are involved in peripheral temperature regulation.'
+Clinical: '<b>Scleroderma</b> is a rare chronic disorder of dermal connective tissue, and is characterized by tightening of skin and extensive deposition of collagen. Its “histologic picture” includes occluded microvasculature and lymphocytic infiltration into subcutaneous connective tissue.'
+Comment: '<b>Comment:</b> The dermis, a richly vascularized connective tissue, provides mechanical support, pliability, and tensile strength to skin. Cutaneous blood vessels furnish nutrients to skin and are involved in thermoregulation. Large muscular arteries in the subcutaneous connective tissue that supply the skin are accompanied by muscular veins. A network of smaller vessels constitutes the deep (cutaneous) plexus. It communicates with a more superficial (Subpapillary) plexus immediately under dermal papillae. Many arteriovenous anastomoses are in deep layers of the dermis. These specialized structures, known as glomus bodies, are involved in peripheral temperature regulation.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Dermal_Vasculature'
 

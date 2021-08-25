@@ -6,8 +6,8 @@ noteid: '1555362854373'
 Title: 'White Pulp'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.14.32 PM.png">'
-Clinical: '<img src="paste-ce2914f345f6860b554e138b6ab96274f15ba1cc.jpg"><br>Splenectomy, or removal of the spleen, is used as therapy for some chronic disorders or an emergency procedure for traumatic rupture of the spleen. Splenectomy in adults usually has no clinical  consequence, but in children it leads to increased occurrence and severity of infections.'
-Comment: '<img src="paste-12b8a5d2d65ddb3e59b4020b515a495b2352cdad.jpg"><br>Comment: The spleen is covered by an outer dense irregular connective tissue capsule, which sends radiating trabeculae into the organ’s interior. Unlike other lymphoid organs, the spleen does not have a cortex and medulla. It consists of white pulp and red pulp,  so named because of their color in the fresh state. White pulp is made of grayish white islands of lymphoid tissue, most surrounding a central arteriole to form periarteriolar lymphatic sheaths (PALS). Associated with PALS are occasional lymphoid nodules with germinal centers that seem to push arterioles to an eccentric location.'
+Clinical: '<b>Splenectomy</b>, or removal of the spleen, is used as therapy for some chronic disorders or an emergency procedure for traumatic rupture of the spleen. Splenectomy in adults usually has no clinical  consequence, but in children it leads to increased occurrence and severity of infections.'
+Comment: '<b>Comment:</b> The spleen is covered by an outer dense irregular connective tissue capsule, which sends radiating trabeculae into the organ’s interior. Unlike other lymphoid organs, the spleen does not have a cortex and medulla. It consists of white pulp and red pulp,  so named because of their color in the fresh state. White pulp is made of grayish white islands of lymphoid tissue, most surrounding a central arteriole to form periarteriolar lymphatic sheaths (PALS). Associated with PALS are occasional lymphoid nodules with germinal centers that seem to push arterioles to an eccentric location.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::White_Pulp'
 

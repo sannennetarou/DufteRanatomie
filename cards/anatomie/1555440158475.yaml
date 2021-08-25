@@ -6,8 +6,8 @@ noteid: '1555440158475'
 Title: 'Vestibular receptors'
 
 OccludedImage: '<img src="paste-158b8c939e94a2133b2196fd55287385c10e8fba.jpg">'
-Clinical: '<img src="paste-9157a47e776136ccae01d5170147a14151cb354a.jpg"><br>Benign paroxysmal positional nystagmus (BPPN), a disorder of the vestibular apparatus, is the most common cause of vertigo (dizziness). It is due to altered displacement of otoliths into the semicircular canals. Common in the elderly or after head trauma, it has limited duration and usually resolves without treatment.'
-Comment: '<img src="paste-1b321e48ce81cd2eebeba1645adb475b92a6e0ac.jpg"><br>Comment: The vestibular apparatus of the membranous labyrinth consists of 3 semicircular canals, a utricle, and a saccule. The vestibular receptor areas in the utricle and saccule are the macula; the crista ampularis is the equivalent receptor area in the semicircular canals. Both the crista and macula have sensory epithelium that conforms to a common histologic plan. Hair cells with apical stereocilia as well as supporting cells constitute the epithelium in these receptors. Stereocilia of hair cells in the crista are embedded in the gelatinous cupula, whereas stereocilia of hair cells in the macula project into the gelatinous otolithic membrane containing crystals of calcium carbonate (otoconia).'
+Clinical: '<b>Benign paroxysmal positional nystagmus (BPPN)</b>, a disorder of the vestibular apparatus, is the most common cause of <b>vertigo (dizziness)</b>. It is due to altered displacement of otoliths into the semicircular canals. Common in the elderly or after head trauma, it has limited duration and usually resolves without treatment.'
+Comment: '<b>Comment:</b> The vestibular apparatus of the membranous labyrinth consists of 3 semicircular canals, a utricle, and a saccule. The vestibular receptor areas in the utricle and saccule are the macula; the crista ampularis is the equivalent receptor area in the semicircular canals. Both the crista and macula have sensory epithelium that conforms to a common histologic plan. Hair cells with apical stereocilia as well as supporting cells constitute the epithelium in these receptors. Stereocilia of hair cells in the crista are embedded in the gelatinous cupula, whereas stereocilia of hair cells in the macula project into the gelatinous otolithic membrane containing crystals of calcium carbonate (otoconia).'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Vestibular_Receptors'
 
