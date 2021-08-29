@@ -6,8 +6,8 @@ noteid: '1555356479657'
 Title: 'Sarcomere'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.28.13 PM.png">'
-Clinical: '<img src="paste-9eb717407de9870b30c468a872b207c667b9a465.jpg"><br>Nemaline myopathy is a rare inherited congenital disorder that causes muscle weakness in the face, neck, upper limbs, and respiratory muscles. Atypical fiber inclusions called nemaline (or rod) bodies consisting of Z band material typify this disorder. Mutations in the genes encoding thin filament proteins are associated with this  disease.'
-Comment: '<img src="paste-5653eed90a91e8f031197f757a1815bf593d927f.jpg"><br>Comment: The repeating unit of striated muscle is called the sarcomere and is delimited by successive Z bands. The banded appearance of striated muscle arises from highly oriented sets of overlapping myosin-containing thick filaments (A band) and actin- containing thin filaments (| band). Z bands are the sites where oppositely oriented thin filaments are anchored. During contraction, myosin heads located on the thick filament bind to actin in the thin filament and pull the sets of filaments past one another. The distance from Z band to Z band shortens as well as the widths of the | bands and H zone. The A band remains a constant width.'
+Clinical: '<b>Nemaline myopathy</b> is a rare inherited congenital disorder that causes muscle weakness in the face, neck, upper limbs, and respiratory muscles. Atypical fiber inclusions called <b>nemaline</b> (or rod) <b>bodies</b> consisting of Z band material typify this disorder. Mutations in the genes encoding thin filament proteins are associated with this  disease.'
+Comment: '<b>Comment:</b> The repeating unit of striated muscle is called the sarcomere and is delimited by successive Z bands. The banded appearance of striated muscle arises from highly oriented sets of overlapping myosin-containing thick filaments (A band) and actin- containing thin filaments (I band). Z bands are the sites where oppositely oriented thin filaments are anchored. During contraction, myosin heads located on the thick filament bind to actin in the thin filament and pull the sets of filaments past one another. The distance from Z band to Z band shortens as well as the widths of the I bands and H zone. The A band remains a constant width.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::4_Muscle_Tissue::Sarcomere'
 
