@@ -6,8 +6,8 @@ noteid: '1555436460735'
 Title: 'Prostate'
 
 OccludedImage: '<img src="paste-4ec749b1605257907812708c888bfa725ed3a819.jpg">'
-Clinical: '<img src="paste-1f51e6a856bc99d7d14c1bcd96dc498065437021.jpg"><br>Benign prostatic hypertrophy (BPH), affecting 30% of men older than 50 years, is caused by hypertrophy and hyperplasia of glandular and stromal cells in the gland. It leads to nonmalignant enlargement of the gland. Its frequency and severity increase with aging. Diagnosis is made by rectal-digital palpation, transrectal ultrasonography, cystoscopy, and measurement of prostate-specific antigen (PSA).'
-Comment: '<img src="paste-7dee985db68b81dd2baeea81586df41f3bb120a2.jpg"><br>Comment: The adult prostate—the size of a chestnut—surrounds the urethra immediately below the neck of the urinary bladder. The prostate is invested by a thin connective tissue capsule and comprises a collection of 50 compound tubulo-alveolar glands lined by pseudostratified epithelium. Prostatic secretions are 10% to 20% of the ejaculate volume, and contain the enzyme acid phosphatase, citric acid, zinc, prostate-specific antigen (PSA), and other proteases and fibrolytic enzymes. The subdivision of the prostate into 3 concentric zones is clinically important because most prostate adenocarcinomas arise from the peripheral zone.'
+Clinical: '<b>Benign prostatic hypertrophy (BPH)</b>, affecting 30% of men older than 50 years, is caused by hypertrophy and hyperplasia of glandular and stromal cells in the gland. It leads to nonmalignant enlargement of the gland. Its frequency and severity increase with aging. Diagnosis is made by rectal-digital palpation, transrectal ultrasonography, cystoscopy, and measurement of prostate-specific antigen (PSA).'
+Comment: '<b>Comment:</b> The adult prostate - the size of a chestnut - surrounds the urethra immediately below the neck of the urinary bladder. The prostate is invested by a thin connective tissue capsule and comprises a collection of 50 compound tubulo-alveolar glands lined by pseudostratified epithelium. Prostatic secretions are 10% to 20% of the ejaculate volume, and contain the enzyme acid phosphatase, citric acid, zinc, prostate-specific antigen (PSA), and other proteases and fibrolytic enzymes. The subdivision of the prostate into 3 concentric zones is clinically important because most <b>prostate adenocarcinomas</b> arise from the peripheral zone.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Prostate'
 
