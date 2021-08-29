@@ -6,8 +6,8 @@ noteid: '1555365152146'
 Title: 'Gingiva'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.52.48 PM.png">'
-Clinical: '<img src="paste-e813632413bf4c2a1eb1aa9e4f07523bc3cae590.jpg"><br>Gingivitis—an inflammation of the gums—may be due to poor or inadequate oral hygiene. It is the most common dental pathology in children and adults and is usually caused by accumulation of plaque or calculus (tartar), containing large numbers of bacteria. Untreated gingivitis may lead to more serious complications such as periodontitis, which involves destruction of the alveolar bone and ultimately tooth loss.'
-Comment: '<img src="paste-c70ec93eadc11db40b073f9cc99c6372a184ae48.jpg"><br>Comment: The oral mucosa is regionally modified to reflect differences in function and ability to withstand friction. It is classified into 3 types: lining mucosa (lips, cheeks, and soft palate), masticatory mucosa (gingiva and hard palate), and specialized mucosa (dorsum of the tongue). The gingiva is a mucous membrane that lacks glands. It surrounds each tooth and envelops outer and inner surfaces of the alveolar processes of the maxilla and mandible.'
+Clinical: '<b>Gingivitis</b> -&nbsp;an inflammation of the gums - may be due to poor or inadequate oral hygiene. It is the most common dental pathology in children and adults and is usually caused by accumulation of plaque or calculus (tartar), containing large numbers of bacteria. Untreated gingivitis may lead to more serious complications such as <b>periodontitis</b>, which involves destruction of the alveolar bone and ultimately tooth loss.'
+Comment: '<b>Comment:</b> The oral mucosa is regionally modified to reflect differences in function and ability to withstand friction. It is classified into 3 types: lining mucosa (lips, cheeks, and soft palate), masticatory mucosa (gingiva and hard palate), and specialized mucosa (dorsum of the tongue). The gingiva is a mucous membrane that lacks glands. It surrounds each tooth and envelops outer and inner surfaces of the alveolar processes of the maxilla and mandible.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Gingiva'
 
