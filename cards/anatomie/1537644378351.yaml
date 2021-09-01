@@ -39,7 +39,7 @@ tags:
 - 'DopeRanatomy::#RANATOMY,'
 - 'DopeRanatomy::Region::Lower_Limb,'
 - 'DopeRanatomy::System::Musculoskeletal::Muscular::Lower_Limb::Upper_Leg,'
-- 'DopeRanatomy::#RANATOMIE,'
-- 'DopeRanatomy::Region::Untere_Extremität,'
-- 'DopeRanatomy::System::Bewegungsapparat::Muskeln::Untere_Extremität::Oberschenkel'
+- 'Dufte::#RANATOMIE,'
+- 'Dufte::Region::Untere_Extremität,'
+- 'Dufte::System::Bewegungsapparat::Muskeln::Untere_Extremität::Oberschenkel'
 
