@@ -6,8 +6,8 @@ noteid: '1555352670470'
 Title: 'The Cell'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.28.23 PM.png">'
-Clinical: '<img src="paste-5ac3bd6a978a432d9528e3c6041e21b089147d6a.jpg"><br>Electron microscopy (EM), as an adjunct to conventional histology, has advanced our knowledge of the cell and its organelles, and is an important tool in ultrastructural pathology. In many cases, EM is essential for definitive diagnosis of disease, such as the detection and recognition of some neoplastic tumors. It also provides valuable information on infectious diseases, metabolic disorders, and helps to determine the ultimate course of medical treatment.'
-Comment: '<div><img src="paste-bb8cd8a0b6728a67dd19e11fe21caa1342511869.jpg"><br>Comment: The cell is the fundamental structural and functional unit of all living organisms. The body contains about 60 x 10” cells, of which there are approximately 200 different types. Cells vary widely in size and shape. A typical cell has polarized compartments and surface specializations; internal cell structure is modified to reflect function. The centrally placed nucleus is surrounded by endoplasmic reticulum. Mitochondria occupy the basal compartment, and the apical compartment contains the Golgi complex and a centriole. Apical microvilli increase the plasma membrane surface area for absorption.</div>'
+Clinical: '<b>Electron microscopy (EM)</b>, as an adjunct to conventional histology, has advanced our knowledge of the cell and its organelles, and is an important tool in <b>ultrastructural pathology</b>. In many cases, EM is essential for definitive diagnosis of disease, such as the detection and recognition of some <b>neoplastic tumors</b>. It also provides valuable information on <b>infectious diseases</b>, <b>metabolic disorders</b>, and helps to determine the ultimate course of medical treatment.'
+Comment: '<div><b>Comment:</b> The cell is the fundamental structural and functional unit of all living organisms. The body contains about 60 x 10<sup>12</sup> cells, of which there are approximately 200 different types. Cells vary widely in size and shape. A typical cell has polarized compartments and surface specializations; internal cell structure is modified to reflect function. The centrally placed nucleus is surrounded by endoplasmic reticulum. Mitochondria occupy the basal compartment, and the apical compartment contains the Golgi complex and a centriole. Apical microvilli increase the plasma membrane surface area for absorption.</div>'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::1_The_Cell::The_Cell'
 
