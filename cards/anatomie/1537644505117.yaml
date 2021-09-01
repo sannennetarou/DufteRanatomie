@@ -39,7 +39,7 @@ tags:
 - 'DopeRanatomy::#RANATOMY,'
 - 'DopeRanatomy::Region::Lower_Limb::Upper_Leg,'
 - 'DopeRanatomy::System::Nervous::PNS::Lower_Limb::Upper_Leg,'
-- 'DopeRanatomy::#RANATOMIE,'
-- 'DopeRanatomy::Region::Untere_Extremität::Oberschenkel,'
-- 'DopeRanatomy::System::Nerven::PNS::Untere_Extremität::Oberschenkel'
+- 'Dufte::#RANATOMIE,'
+- 'Dufte::Region::Untere_Extremität::Oberschenkel,'
+- 'Dufte::System::Nerven::PNS::Untere_Extremität::Oberschenkel'
 
