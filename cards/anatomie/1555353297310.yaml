@@ -7,7 +7,7 @@ Title: 'Nucleus'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.35.19 PM.png">'
 Clinical: '<b>Histopathology</b> uses changes in nuclear morphology as diagnostic features. Many cellular disorders show an increase in nuclear-to- cytoplasmic ratio, nuclear indentation, ground glass appearance, crystalloid inclusions, or abnormal multinucleation. Aberrant nuclear location in a cell may also indicate cellular pathology or injury, such as the presence of centrally located nuclei in skeletal muscle fibers of patients with <b>muscular dystrophy</b>.'
-Comment: '<img src="paste-8c4842e9aec41c3dcc0a84a2da73b69bdea57b28.jpg"><br>Comment: The nucleus is the largest, most conspicuous structure in the cell. Most cells have 1 nucleus. The nucleus consists of the nucleolus, chromatin, nuclear matrix, and nuclear envelope. A nuclear envelope encloses the nucleus of interphase cells and separates nucleus from cytoplasm. The nucleus contains genetic material (DNA) that is either packed or unpacked. Heterochromatin is the packed form, whereas euchromatin is the unpacked form. Histone proteins are involved in packaging of DNA into heterochromatin. Euchromatin represents unwound DNA in the process of transcription. The proportion of heterochromatin to euchromatin gives an indication of the general activity of the cell. Mature erythrocytes of most mammals do not contain nuclei since they are extruded during development.'
+Comment: '<b>Comment:</b> The nucleus is the largest, most conspicuous structure in the cell. Most cells have 1 nucleus. The nucleus consists of the nucleolus, chromatin, nuclear matrix, and nuclear envelope. A nuclear envelope encloses the nucleus of interphase cells and separates nucleus from cytoplasm. The nucleus contains genetic material (DNA) that is either packed or unpacked. Heterochromatin is the packed form, whereas euchromatin is the unpacked form. Histone proteins are involved in packaging of DNA into heterochromatin. Euchromatin represents unwound DNA in the process of transcription. The proportion of heterochromatin to euchromatin gives an indication of the general activity of the cell. Mature erythrocytes of most mammals do not contain nuclei since they are extruded during development.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::1_The_Cell::Nucleus'
 
