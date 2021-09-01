@@ -6,8 +6,8 @@ noteid: '1555353567260'
 Title: 'Mitochondria'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.39.34 PM.png">'
-Clinical: '<img src="paste-44bec39160f3e695f1daca306b4b3df382f313c8.jpg"><br>Mitochondrial myopathies are a group of diseases that result primarily in muscle weakness and dysfunction. They are typically inherited disorders, which vary from mild to life threatening. They are caused by mutations in mitochondrial DNA, of which there are over 50 harmful mutations. The most common symptoms are severe muscle weakness, cramps, spasm, and cardiac involvement.'
-Comment: '<img src="paste-cea3b9ceb8cb01412ef1a80ec01678b7784b77f1.jpg"><br>Comment: Mitochondrial shape varies with plane of section and type of cell. Each organelle has thin, shelf, or tubular cristae that project into the mitochondrial matrix. The outer mitochondrial membrane has a smooth contour. It consists mostly of the large channel-forming protein—porin—which increases membrane permeability for passage of molecules and metabolites required for ATP synthesis. The inner mitochondrial membrane is thrown into a series of transverse shelf-like or tubular folds known as cristae. The mitochondrial matrix has an increased electron density that is finely granular.'
+Clinical: '<b>Mitochondrial myopathies</b> are a group of diseases that result primarily in muscle weakness and dysfunction. They are typically inherited disorders, which vary from mild to life threatening. They are caused by mutations in mitochondrial DNA, of which there are over 50 harmful mutations. The most common symptoms are severe muscle weakness, cramps, spasm, and cardiac involvement.'
+Comment: '<b>Comment:</b> Mitochondrial shape varies with plane of section and type of cell. Each organelle has thin, shelf, or tubular cristae that project into the mitochondrial matrix. The outer mitochondrial membrane has a smooth contour. It consists mostly of the large channel-forming protein - porin - which increases membrane permeability for passage of molecules and metabolites required for ATP synthesis. The inner mitochondrial membrane is thrown into a series of transverse shelf-like or tubular folds known as cristae. The mitochondrial matrix has an increased electron density that is finely granular.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::1_The_Cell::Mitochondria'
 
