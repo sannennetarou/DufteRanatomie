@@ -6,8 +6,8 @@ noteid: '1555353113429'
 Title: 'Cell Junctions'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.32.04 PM.png">'
-Clinical: '<img src="paste-c16381bbfc8078ac48999e9d1984440fcd17c582.jpg"><br>Several diseases result from mutations in genes encoding connexins, which are named according to molecular size. Recessive mutations in connexin-26, with a molecular size of 26 kD, lead to the most common cause of inherited human deafness, which often affects the elderly. Connexin-26 is usually involved in K+ transport in cells that support cochlear hair cells.<br>'
-Comment: '<img src="paste-1024199cd348221002a4f2b8aaf39a8d05eb1db5.jpg"><br>Comment: Metabolic, ionic, and low-resistance electrical communication occurs between adjacent cells via gap (communicating) junctions, in which a narrow gap of about 2 nm separates opposing cell membranes. They are specialized sites composed of large, tightly packed intercellular channels, which connect cytoplasm of adjacent cells. Each cylindrical channel, 10-12 nm long and 2.8-3.0 nm in diameter, consists of a pair of half-channels, termed connexons, which are embedded in the cell membranes. Each connexon comprises six symmetric protein subunits, called connexins, that are transmembrane proteins surrounding a small central aqueous pore (diameter: 1.5-2.0 nm).<br>'
+Clinical: 'Several diseases result from mutations in genes encoding <b>connexins</b>, which are named according to molecular size. Recessive mutations in connexin-26, with a molecular size of 26 kD, lead to the most common cause of <b>inherited human deafness</b>, which often affects the elderly. Connexin-26 is usually involved in K+ transport in cells that support cochlear hair cells.'
+Comment: '<b>Comment:</b> Metabolic, ionic, and low-resistance electrical communication occurs between adjacent cells via gap (communicating) junctions, in which a narrow gap of about 2 nm separates opposing cell membranes. They are specialized sites composed of large, tightly packed intercellular channels, which connect cytoplasm of adjacent cells. Each cylindrical channel, 10-12 nm long and 2.8-3.0 nm in diameter, consists of a pair of half-channels, termed connexons, which are embedded in the cell membranes. Each connexon comprises six symmetric protein subunits, called connexins, that are transmembrane proteins surrounding a small central aqueous pore (diameter: 1.5-2.0 nm).'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::1_The_Cell::Cell_Junctions'
 
