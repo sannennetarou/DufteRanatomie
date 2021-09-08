@@ -15,7 +15,7 @@ Die .yaml-Files haben jetzt jeweils in der ersten Zeile einen Link zum englische
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-08-11 at 10 11 28" src="https://user-images.githubusercontent.com/85392967/128994113-f0ab5304-01b5-44b8-a41d-31ad5fa8c2c6.png"></kbd></p>
 
-Weil die englischsprachige Repo jetzt auch eingerichtet ist, wäre es theoretisch möglich fließend zwischen dem englischen und dem deutschen deck zu wechseln, und den Fortschritt beizubehalten. Wie sinnvoll das ist, ist ne andere Frage.
+Weil die englischsprachige Repo jetzt auch eingerichtet ist, wäre es theoretisch möglich fließend zwischen dem englischen und dem deutschen Deck zu wechseln, und den Fortschritt beizubehalten. Wie sinnvoll das ist, ist ne andere Frage.
 
 # Guidelines
 ## Allgemeine Informationen
