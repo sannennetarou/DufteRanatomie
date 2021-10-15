@@ -6,8 +6,8 @@ noteid: '1555354340869'
 Title: 'Simple Columnar Epithelium'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.52.40 PM.png">'
-Clinical: '<img src="paste-ccd66cda660cc73efd98fda2b6aee260a2edab3e.jpg"><br>Malabsorption of nutrients, vitamins, and metabolites can result from damage to microvilli of the small and large intestine. Microvillus inclusion disease is a congenital disorder that is characterized by improper incorporation of microvilli into the apical membrane of enterocytes.'
-Comment: '<img src="paste-798c2ca7b7e32f5e25aad905325e26b828e0c732.jpg"><br>Comment: Simple columnar epithelium consists of a single layer of cells that are taller than they are wide. To increase their surface area, the free surfaces of the cells often bear microvilli, which are thin, finger-like cellular projections. When microvilli are prominent, uniform in size, and tightly packed, they constitute a striated or brush border. Brush borders that consist purely of microvilli are found at the apical borders of enterocytes in the small intestine and proximal tubule cells of the kidney. The major function of these cells is absorption.'
+Clinical: '<b>Malabsorption</b> of nutrients, vitamins, and metabolites can result from damage to microvilli of the small and large intestine. <b>Microvillus inclusion disease</b> is a congenital disorder that is characterized by improper incorporation of microvilli into the apical membrane of enterocytes.'
+Comment: '<b>Comment:</b> Simple columnar epithelium consists of a single layer of cells that are taller than they are wide. To increase their surface area, the free surfaces of the cells often bear microvilli, which are thin, finger-like cellular projections. When microvilli are prominent, uniform in size, and tightly packed, they constitute a striated or brush border. Brush borders that consist purely of microvilli are found at the apical borders of enterocytes in the small intestine and proximal tubule cells of the kidney. The major function of these cells is absorption.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Simple_Columnar_Epithelium'
 
