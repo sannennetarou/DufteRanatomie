@@ -6,8 +6,8 @@ noteid: '1555362775035'
 Title: 'Spleen'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.13.31 PM.png">'
-Clinical: '<img src="paste-0a536c8fd371aa74cfe6a7ede916777383d05331.jpg"><br>Splenomegaly, or abnormal enlargement of the spleen, is caused by many clinical conditions. A common cause is portal hypertension resulting from cirrhosis of the liver. The spleen of affected patients is  modestly enlarged, weighing 300 g to 800 g, and the capsule becomes thick and fibrotic.'
-Comment: '<img src="paste-6a42c7b30a9a58fd62e531ed44c7440b4df8972e.jpg"><br>Comment: The spleen lies in the upper left quadrant of the abdomen, behind the stomach and just below the diaphragm. In adults, this largest lymphoid organ is the size of a clenched fist and weighs 180 g to 250 g. At the hilum on the medial surface, the splenic artery and nerves enter and the splenic vein and lymphatics leave. The spleen is a major repository for mononuclear phagocytic cells, accounts for 25% of the total number of lymphocytes, and stores about a third of the body’s platelets. The organ filters blood by clearing particulate matter, infectious organisms, and aged or defective erythrocytes and platelets. It recycles iron from worn-out erythrocytes. Primarily macrophages perform these functions. The spleen is also a secondary lymphoid organ: lymphocytes respond to blood-borne antigens by initiating an immune reaction that activates T and B cells.'
+Clinical: '<b>Splenomegaly</b>, or abnormal enlargement of the spleen, is caused by many clinical conditions. A common cause is <b>portal hypertension</b> resulting from <b>cirrhosis</b> of the liver. The spleen of affected patients is  modestly enlarged, weighing 300 g to 800 g, and the capsule becomes thick and fibrotic.'
+Comment: '<b>Comment:</b> The spleen lies in the upper left quadrant of the abdomen, behind the stomach and just below the diaphragm. In adults, this largest lymphoid organ is the size of a clenched fist and weighs 180 g to 250 g. At the hilum on the medial surface, the splenic artery and nerves enter and the splenic vein and lymphatics leave. The spleen is a major repository for mononuclear phagocytic cells, accounts for 25% of the total number of lymphocytes, and stores about a third of the body’s platelets. The organ filters blood by clearing particulate matter, infectious organisms, and aged or defective erythrocytes and platelets. It recycles iron from worn-out erythrocytes. Primarily macrophages perform these functions. The spleen is also a secondary lymphoid organ: lymphocytes respond to blood-borne antigens by initiating an immune reaction that activates T and B cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::Spleen'
 
