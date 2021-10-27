@@ -6,8 +6,8 @@ noteid: '1555362077394'
 Title: 'Lymph Node'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.01.26 PM.png">'
-Clinical: '<img src="paste-17fabfe748aac387a74fe742e52c1ea8f204b1a8.jpg"><br>Adenopathy is an abnormal enlargement of lymph nodes. It may be due to an increase in lymphocytes and macrophages within the node during antigenic stimulation in a bacterial or viral infection. It may also be caused by metastasis, whereby neoplastic tumor cells spread from their local site of development to distant locations.'
-Comment: '<img src="paste-579884dee28c1c997df4b04f3ecf672d82953d7e.jpg"><br>Comment: Lymph nodes are bean- or kidney-shaped lymphoid organs, 2 to 20 mm in diameter; 500 to 600 nodes are found in the body. They are seen along lymphatic vessels, and lymph percolates through them. They occur, often as chains or groups, in strategic regions such as the neck, groin, mesenteries, axillae, and abdomen. The main functions of lymph nodes are filtration of lymph before its return to the thoracic duct; production of lymphocytes that are added to lymph; synthesis of antibodies (mainly IgG); and recirculation of lymphocytes by their selective reentry from blood to lymph across walls of specialized postcapillary venules.'
+Clinical: '<b>Adenopathy</b> is an abnormal enlargement of lymph nodes. It may be due to an increase in lymphocytes and macrophages within the node during antigenic stimulation in a <b>bacterial</b> or <b>viral infection</b>. It may also be caused by <b>metastasis</b>, whereby <b>neoplastic tumor cells</b> spread from their local site of development to distant locations.'
+Comment: '<b>Comment:</b> Lymph nodes are bean- or kidney-shaped lymphoid organs, 2 to 20 mm in diameter; 500 to 600 nodes are found in the body. They are seen along lymphatic vessels, and lymph percolates through them. They occur, often as chains or groups, in strategic regions such as the neck, groin, mesenteries, axillae, and abdomen. The main functions of lymph nodes are filtration of lymph before its return to the thoracic duct; production of lymphocytes that are added to lymph; synthesis of antibodies (mainly IgG); and recirculation of lymphocytes by their selective reentry from blood to lymph across walls of specialized postcapillary venules.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::Lymph_Node'
 
