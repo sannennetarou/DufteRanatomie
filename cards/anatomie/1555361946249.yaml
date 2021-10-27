@@ -6,8 +6,8 @@ noteid: '1555361946249'
 Title: 'Lymphoid Tissue'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.59.28 PM.png">'
-Clinical: '<img src="paste-3db0d60a929a8c59c023997ce5432092a24bf514.jpg"><br>Rubella, commonly called German measles, is a contagious illness caused by the rubella virus entering the respiratory tract and associated lymphoid tissue. It occurs mainly in children and young  adults, and its hallmark is an erythematous maculopapular rash accompanied by fever and swollen lymph nodes.'
-Comment: '<img src="paste-dc4a91624f33261bc88d05bae56aa2406d277989.jpg"><br>Comment: The lymphoid (or immune) system protects the body against the potentially harmful effects of pathogenic organisms, foreign substances, infectious agents (i.e., bacteria and viruses), and abnormal cells. It consists of lymphoid tissues and organs in which the principal constituents are aggregations of lymphocytes and other cells of the mononuclear phagocyte system. Diffuse subepithelial aggregates of lymphocytes are the most ubiquitous and occur throughout the gastrointestinal, respiratory, and genitourinary tracts as mucosa-associated lymphoid tissue. More densely packed, spherical clusters of lymphocytes, known as lymphoid nodules  (or follicles), may also be found in these and other sites.'
+Clinical: '<b>Rubella</b>, commonly called <b>German measles</b>, is a contagious illness caused by the rubella virus entering the respiratory tract and associated lymphoid tissue. It occurs mainly in children and young  adults, and its hallmark is an erythematous maculopapular rash accompanied by fever and swollen lymph nodes.'
+Comment: '<b>Comment:</b> The lymphoid (or immune) system protects the body against the potentially harmful effects of pathogenic organisms, foreign substances, infectious agents (i.e., bacteria and viruses), and abnormal cells. It consists of lymphoid tissues and organs in which the principal constituents are aggregations of lymphocytes and other cells of the mononuclear phagocyte system. Diffuse subepithelial aggregates of lymphocytes are the most ubiquitous and occur throughout the gastrointestinal, respiratory, and genitourinary tracts as mucosa-associated lymphoid tissue. More densely packed, spherical clusters of lymphocytes, known as lymphoid nodules  (or follicles), may also be found in these and other sites.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::Lymphoid_Tissue'
 
