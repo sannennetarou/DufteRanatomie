@@ -6,8 +6,8 @@ noteid: '1555362922443'
 Title: 'Red Pulp'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.15.36 PM.png">'
-Clinical: '<img src="paste-f5e9bf8ed74229abbc2e0bcb3213064cf8fcf198.jpg"><br>During early fetal development, the spleen is temporarily an organ of hematopoiesis. This role is taken over by the liver and then bone marrow. However, in severe cases of anemia or myeloproliferative disorders in children and adults, the spleen may produce new blood cells, a condition referred to as extramedullary hematopoiesis (occurs outside of the bone marrow).'
-Comment: '<img src="paste-7de36f2cda5c349bad1e5dfea565d8952c040773.jpg"><br>Comment: Red pulp constitutes most of the spleen, its color being due mostly to abundant erythrocytes. Found around white pulp,  it consists of many thin-walled venous sinusoids and intervening cellular, or splenic, cords (of Billroth). The term splenic cords is misleading, in that these are labyrinthine spaces between sinusoids containing a scaffold of reticular fibers. Many closely packed fixed or wandering cells—reticular cells, lymphocytes, plasma cells, macrophages, and all formed elements of circulating blood—occupy these spaces. Venous sinusoids are a tortuous network of thin-walled vessels with irregular lumina. With diameters of 30 to 50 um, they have a unique structure related to high permeability. They are made of spindle-shaped, longitudinally oriented endothelial cells.'
+Clinical: 'During early fetal development, the spleen is temporarily an organ of <b>hematopoiesis</b>. This role is taken over by the liver and then bone marrow. However, in severe cases of <b>anemia</b> or <b>myeloproliferative disorders</b> in children and adults, the spleen may produce new blood cells, a condition referred to as <b>extramedullary hematopoiesis</b> (occurs outside of the bone marrow).'
+Comment: '<b>Comment:</b> Red pulp constitutes most of the spleen, its color being due mostly to abundant erythrocytes. Found around white pulp,  it consists of many thin-walled venous sinusoids and intervening cellular, or splenic, cords (of Billroth). The term splenic cords is misleading, in that these are labyrinthine spaces between sinusoids containing a scaffold of reticular fibers. Many closely packed fixed or wandering cells—reticular cells, lymphocytes, plasma cells, macrophages, and all formed elements of circulating blood—occupy these spaces. Venous sinusoids are a tortuous network of thin-walled vessels with irregular lumina. With diameters of 30 to 50 μm, they have a unique structure related to high permeability. They are made of spindle-shaped, longitudinally oriented endothelial cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::Red_Pulp'
 
