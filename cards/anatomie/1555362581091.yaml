@@ -6,8 +6,8 @@ noteid: '1555362581091'
 Title: 'High Endothelial Venule'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.09.48 PM.png">'
-Clinical: '<img src="paste-fb7df5c3746a09bb5132d07e19186957d290d83a.jpg"><br>Human immunodeficiency virus (HIV) is an RNA retrovirus that can infect CD4+ helper T cells and macrophages expressing CD4 surface marker. HIV infection, a chronic infectious disease, can cause a broad spectrum of clinical manifestations, ranging from an asymptomatic carrier state to AIDS, or acquired immunodeficiency syndrome.'
-Comment: '<img src="paste-9b0c49de7466e04d52499ccbca0e3c00d01fc160.jpg"><br>Comment: Since lymphocytes are intrinsically mobile, they can leave the bloodstream by preferential migration across the walls of specialized blood vessels called high endothelial venules (HEVs). These vessels are located in the paracortical zone of the lymph node. They are 30 to 50 um in diameter and are specialized for the passage, by selective diapedesis, of B cells and T cells from the blood into perivascular areas. HEVs possess cell adhesion molecules on their endothelial cells, which facilitate a highly specific transmigration of T and B cells. They squeeze between adjacent endothelial cells of HEVs and penetrate the underlying basement membrane. On gaining access to the surrounding lymphoid parenchyma, T cells typically remain in the paracortex, whereas B cells migrate to lymphoid nodules.'
+Clinical: '<b>Human immunodeficiency virus (HIV)</b> is an RNA retrovirus that can infect CD4+ helper T cells and macrophages expressing CD4 surface marker. HIV infection, a chronic infectious disease, can cause a broad spectrum of clinical manifestations, ranging from an asymptomatic carrier state to <b>AIDS</b>, or <b>acquired immunodeficiency syndrome</b>.'
+Comment: '<b>Comment:</b> Since lymphocytes are intrinsically mobile, they can leave the bloodstream by preferential migration across the walls of specialized blood vessels called high endothelial venules (HEVs). These vessels are located in the paracortical zone of the lymph node. They are 30 to 50 μm in diameter and are specialized for the passage, by selective diapedesis, of B cells and T cells from the blood into perivascular areas. HEVs possess cell adhesion molecules on their endothelial cells, which facilitate a highly specific transmigration of T and B cells. They squeeze between adjacent endothelial cells of HEVs and penetrate the underlying basement membrane. On gaining access to the surrounding lymphoid parenchyma, T cells typically remain in the paracortex, whereas B cells migrate to lymphoid nodules.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::High_Endothelial_Venule'
 
