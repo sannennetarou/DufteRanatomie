@@ -6,8 +6,8 @@ noteid: '1555362640742'
 Title: 'Tonsil'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.10.48 PM.png">'
-Clinical: '<img src="paste-9429de45fabd53df410b479df1aa035dbd7422ae.jpg"><br>Tonsillitis, or inflammation of the tonsil, is especially common in children, and it often accompanies pharyngitis. It results from either a bacterial infection, such as that caused by Streptococcus, or a viral infection, such as that caused by the Epstein Barr virus.'
-Comment: '<img src="paste-a2629de35b65a6803e80c1f3f4850051292f905a.jpg"><br>Comment: Tonsils are discrete aggregates of lymphoid nodules under the epithelium-lining entrances to the digestive and respiratory tracts. They can be seen with the naked eye as 3 separate masses. In the wall of the oropharynx lies a bilateral pair of palatine tonsils.  At the base of the tongue sit 2 lingual tonsils, and 1 pharyngeal tonsil is in the posterior part of the nasopharynx. These tonsils together form a prominent ring of strategically located lymphoid tissue called Waldeyer’s ring. The tonsils are partly encapsulated structures that lack afferent lymphatic vessels but are drained by efferent lymphatic channels.'
+Clinical: '<b>Tonsillitis</b>, or inflammation of the tonsil, is especially common in children, and it often accompanies pharyngitis. It results from either a <b>bacterial infection</b>, such as that caused by <b>Streptococcus</b>, or a <b>viral infection</b>, such as that caused by the <b>Epstein Barr virus</b>.'
+Comment: '<b>Comment:</b> Tonsils are discrete aggregates of lymphoid nodules under the epithelium-lining entrances to the digestive and respiratory tracts. They can be seen with the naked eye as 3 separate masses. In the wall of the oropharynx lies a bilateral pair of palatine tonsils.  At the base of the tongue sit 2 lingual tonsils, and 1 pharyngeal tonsil is in the posterior part of the nasopharynx. These tonsils together form a prominent ring of strategically located lymphoid tissue called Waldeyer’s ring. The tonsils are partly encapsulated structures that lack afferent lymphatic vessels but are drained by efferent lymphatic channels.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::Tonsil'
 
