@@ -6,8 +6,8 @@ noteid: '1555362516206'
 Title: 'Lymph Node'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.07.19 PM.png">'
-Clinical: '<img src="paste-90d4bce7b3f216ed9fcfc05a5e1552f4186bace9.jpg"><br>Lymphomas are localized lymphocyte malignancies that often form solid tumors, mainly affecting lymph nodes. Hodgkin disease is  a major type of lymphoma distinguished by the presence of Reed-Sternberg cells in lymph nodes.'
-Comment: '<img src="paste-84fd87bbeaafeab27edbc4e9d2727cf85ec22088.jpg"><br>Comment: Lymph nodes contain aggregates of lymphocytes organized into an outer cortex, a paracortex, and an inner medulla. The darkly stained cortex just under the capsule consists of lymphoid nodules. B cells occupy lymphoid nodules in the cortex, and T cells are in the paracortex, or thymus-dependent region. An outer capsule of dense fibrous connective tissue that typically merges with surrounding tissues and fat invests each node. It sends delicate, radiating collagen-containing partitions called trabeculae into the interior of the nodes. Afferent lymphatic vessels merge with the capsule and empty into the subcapsular space; the lymph percolates through the sinuses to the medulla, where it is collected by the efferent vessel.'
+Clinical: '<b>Lymphomas</b> are localized lymphocyte malignancies that often form solid tumors, mainly affecting lymph nodes. <b>Hodgkin disease</b> is  a major type of lymphoma distinguished by the presence of <i>Reed-Sternberg cells</i> in lymph nodes.'
+Comment: '<b>Comment:</b> Lymph nodes contain aggregates of lymphocytes organized into an outer cortex, a paracortex, and an inner medulla. The darkly stained cortex just under the capsule consists of lymphoid nodules. B cells occupy lymphoid nodules in the cortex, and T cells are in the paracortex, or thymus-dependent region. An outer capsule of dense fibrous connective tissue that typically merges with surrounding tissues and fat invests each node. It sends delicate, radiating collagen-containing partitions called trabeculae into the interior of the nodes. Afferent lymphatic vessels merge with the capsule and empty into the subcapsular space; the lymph percolates through the sinuses to the medulla, where it is collected by the efferent vessel.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::Lymph_Node'
 
