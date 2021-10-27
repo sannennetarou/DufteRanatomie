@@ -6,8 +6,8 @@ noteid: '1555362715863'
 Title: 'Thymus'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.12.05 PM.png">'
-Clinical: '<img src="paste-b32e98b623f8c7ce6939cc897437db91f5d8d765.jpg"><br>DiGeorge syndrome, also known as thymic aplasia, is a rare congenital disorder involving failure of the thymus to develop properly. The syndrome is due to a defect on chromosome 22, and selective T cell deficiency leads to immunodeficiency with recurrent opportunistic infections.'
-Comment: '<img src="paste-cc33988078c241ec3611726f08554d4fddd0022d.jpg"><br>Comment: The thymus gland is a flat, bilobed primary lymphoid organ found in the anterior mediastinum of the thorax, behind the upper part of the sternum. It weighs 12 g to 15 g at birth and reaches maximal size, up to 30 g to 40g, at puberty. After puberty, it undergoes involution (or atrophy) with slow replacement of its lymphoid parenchyma by adipose connective tissue. During fetal development, immature lymphocytes from mesenchyme-derived bone marrow migrate among epithelial reticular cells in the outer cortex of the thymus to become pre-T lymphocytes that make up thymic parenchyma. The cortex contains mainly small lymphocytes that are so densely and uniformly packed that they often obscure the epithelial reticular cells. The main function of the thymus is antigen-independent maturation of T lymphocytes.'
+Clinical: '<b>DiGeorge syndrome</b>, also known as <b>thymic aplasia</b>, is a rare congenital disorder involving failure of the thymus to develop properly. The syndrome is due to a defect on chromosome 22, and selective T cell deficiency leads to <b>immunodeficiency</b> with recurrent <b>opportunistic infections</b>.'
+Comment: '<b>Comment:</b> The thymus gland is a flat, bilobed primary lymphoid organ found in the anterior mediastinum of the thorax, behind the upper part of the sternum. It weighs 12 g to 15 g at birth and reaches maximal size, up to 30 g to 40g, at puberty. After puberty, it undergoes involution (or atrophy) with slow replacement of its lymphoid parenchyma by adipose connective tissue. During fetal development, immature lymphocytes from mesenchyme-derived bone marrow migrate among epithelial reticular cells in the outer cortex of the thymus to become pre-T lymphocytes that make up thymic parenchyma. The cortex contains mainly small lymphocytes that are so densely and uniformly packed that they often obscure the epithelial reticular cells. The main function of the thymus is antigen-independent maturation of T lymphocytes.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::09_Lymphoid::Thymus'
 
