@@ -6,8 +6,8 @@ noteid: '1555358505451'
 Title: 'Hyaline Cartilage'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.02.05 PM.png">'
-Clinical: '<img src="paste-cbc941967f1227c266c414265841dbc734ae8a50.jpg"><br>Hyaline cartilage lesions require accurate differential diagnosis for prognosis and treatment. Whereas chondromas are benign neoplasms of cartilage, chondrosarcomas (of which there are different types) are malignant tumors. They are diagnosed by biopsy, computed axial tomography (CAT scan), and magnetic resonance imaging (MRI). Current treatment is radical surgery combined with chemotherapy.'
-Comment: '<img src="paste-d8015c6f0aa234e727dbe373ea5a210708df524e.jpg"><br>Comment: Besides the articular surfaces of joints, hyaline cartilage is also found at the ends of the ribs, where they join the sternum, and in the upper respiratory airways (tracheal and bronchial segments). At these sites a perichondrium surrounds the cartilage. Blood vessels in the perichondrium provide oxygen and nutrients, which diffuse into the avascular cartilage. Chondrocytes in hyaline cartilage are often arranged in pairs or groups of 4 to 6. The cells of each group make up an isogenous cell nest because they are the progeny of a single chondrocyte during development. Type II collagen fibers, water, and ground substance constitute the matrix. The collagen fibers impart eosinophilia to the matrix, but are not visible by light microscopy because they have a similar refractive index to that of the ground substance. The basophilia in the interterritorial matrix of hyaline cartilage is due to the presence of glycosaminoglycans (GAGs), such as chondroitin sulfate, in the ground substance.'
+Clinical: '<b>Hyaline cartilage lesions</b> require accurate differential diagnosis for prognosis and treatment. Whereas <b>chondromas</b> are benign neoplasms of cartilage, <b>chondrosarcomas</b> (of which there are different types) are <b>malignant tumors</b>. They are diagnosed by <b>biopsy, computed axial tomography (CAT scan)</b>, and <b>magnetic resonance imaging (MRI)</b>. Current treatment is radical surgery combined with <b>chemotherapy</b>.'
+Comment: '<b>Comment:</b> Besides the articular surfaces of joints, hyaline cartilage is also found at the ends of the ribs, where they join the sternum, and in the upper respiratory airways (tracheal and bronchial segments). At these sites a perichondrium surrounds the cartilage. Blood vessels in the perichondrium provide oxygen and nutrients, which diffuse into the avascular cartilage. Chondrocytes in hyaline cartilage are often arranged in pairs or groups of 4 to 6. The cells of each group make up an isogenous cell nest because they are the progeny of a single chondrocyte during development. Type II collagen fibers, water, and ground substance constitute the matrix. The collagen fibers impart eosinophilia to the matrix, but are not visible by light microscopy because they have a similar refractive index to that of the ground substance. The basophilia in the interterritorial matrix of hyaline cartilage is due to the presence of glycosaminoglycans (GAGs), such as chondroitin sulfate, in the ground substance.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::6_Cartilage_and_Bone::Hyaline_Cartilage'
 
