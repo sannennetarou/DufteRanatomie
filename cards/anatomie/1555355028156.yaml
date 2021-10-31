@@ -6,8 +6,8 @@ noteid: '1555355028156'
 Title: 'Loose Connective Tissue'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.04.13 PM.png">'
-Clinical: '<img src="paste-c22961e2f2561c0ea404792d86f17cf06dbeb865.jpg"><br>Tumors of connective tissue or its mesenchymal precursors are known as sarcomas. The most common soft tissue sarcoma in adults is malignant fibrous histiocytoma.'
-Comment: '<img src="paste-a2a8bda942c2c85da3e51c472d0c42e651c21d18.jpg"><br>Comment: Connective tissue, one of the 4 basic bodily tissues, serves many functions including providing support and form to the body and organs, aiding in defense and protection, serving as a medium of exchange of nutrients between tissues, storage of fat, and thermoregulation. Connective tissue proper consists of cells and an extracellular matrix composed of fibers embedded in an amorphous ground substance. The proportion and density of fibers in the extracellular matrix (ECM) defines whether it is classified as loose (areolar) or dense connective tissue. Cells of connective tissue include fibroblasts, mast cells, macrophages, adipocytes, plasma cells, and pericytes.'
+Clinical: '<b>Tumors</b> of connective tissue or its mesenchymal precursors are known as <b>sarcomas</b>. The most common soft tissue sarcoma in adults is <b>malignant fibrous histiocytoma</b>.'
+Comment: '<b>Comment:</b> Connective tissue, one of the 4 basic bodily tissues, serves many functions including providing support and form to the body and organs, aiding in defense and protection, serving as a medium of exchange of nutrients between tissues, storage of fat, and thermoregulation. Connective tissue proper consists of cells and an extracellular matrix composed of fibers embedded in an amorphous ground substance. The proportion and density of fibers in the extracellular matrix (ECM) defines whether it is classified as loose (areolar) or dense connective tissue. Cells of connective tissue include fibroblasts, mast cells, macrophages, adipocytes, plasma cells, and pericytes.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::3_Connective_Tissue::Loose_Connective_Tissue'
 
