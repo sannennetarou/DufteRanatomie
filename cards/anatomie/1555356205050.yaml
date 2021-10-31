@@ -6,8 +6,8 @@ noteid: '1555356205050'
 Title: 'Macrophages'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.23.32 PM.png">'
-Clinical: '<img src="paste-8502c75bd2d7b7b9acdcefb3ee0bd679543e0bc7.jpg"><br>Whipple’s disease, a rare disorder, is characterized by the accumulation of foamy periodic acid-Schiff (PAS)-positive macrophages in the lamina propria. Symptoms of this disease involve malabsorption in the intestine, weight loss, and a wide variety of other manifestations in the body. It is thought to be caused by the gram-positive bacterium, Tropheryma Whippelii.'
-Comment: '<img src="paste-e3ee310986082e7f9c2f69b7be650ceaad23834a.jpg"><br>Comment: After fibroblasts, macrophages (or histiocytes) are the most numerous cell type in loose connective tissue. Macrophages are a family of phagocytic cells that may be fixed cells attached to connective tissue fibers of the matrix or wandering cells that are motile and migratory. Macrophages are named Kupffer cells in the liver, alveolar dust cells in lung, microglia in brain, Langerhans cells in epidermis, dendritic cells in lymphatic tissue, and osteoclasts in bone. Phagocytosis involves engulfment of a particle (e.g., micro- organism) and fusion of primary lysosomes with a phagocytic vacuole, which extrudes enzymes into the resulting digestive vacuole.'
+Clinical: '<b>Whipple’s diseas</b>e, a rare disorder, is characterized by the accumulation of foamy periodic acid-Schiff (PAS)-positive macrophages in the lamina propria. Symptoms of this disease involve malabsorption in the intestine, weight loss, and a wide variety of other manifestations in the body. It is thought to be caused by the gram-positive bacterium, <i>Tropheryma Whippelii</i>.'
+Comment: '<b>Comment:</b> After fibroblasts, macrophages (or histiocytes) are the most numerous cell type in loose connective tissue. Macrophages are a family of phagocytic cells that may be fixed cells attached to connective tissue fibers of the matrix or wandering cells that are motile and migratory. Macrophages are named Kupffer cells in the liver, alveolar dust cells in lung, microglia in brain, Langerhans cells in epidermis, dendritic cells in lymphatic tissue, and osteoclasts in bone. Phagocytosis involves engulfment of a particle (e.g., microorganism) and fusion of primary lysosomes with a phagocytic vacuole, which extrudes enzymes into the resulting digestive vacuole.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::3_Connective_Tissue::Macrophages'
 
