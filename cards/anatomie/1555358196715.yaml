@@ -6,8 +6,8 @@ noteid: '1555358196715'
 Title: 'Peripheral Nerve'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.56.45 PM.png">'
-Clinical: '<img src="paste-99d8239338b32b0044bd042abbe5e3ac87a95c81.jpg"><br>Regeneration of peripheral nerve after injury appears to be highly dependent on the Schwann cell and its basal lamina. At the distal segment, Schwann cells divide and, when contacted by an axonal, sprout from the proximal end of the nerve, differentiate, and undergo myelin production. Signals from the axon to the Schwann cell determine whether an axon will be myelinated or unmyelinated.'
-Comment: '<img src="paste-883957290b3f3caef17a376561d0448306845976.jpg"><br>Comment: The association of Schwann cells to nerve fibers differs between myelinated and unmyelinated nerve fibers. In the PNS, nerve fibers of small diameter composed of both axons and dendrites are grouped together by a Schwann cell that either completely or partially envelops them in groove-like invaginations that are open to the surface. Schwann cells associated with unmyelinated fibers may invest as many as 20 nerve fibers, and their entire outer surface is covered by a basal lamina. The surrounding endoneurial connective tissue contains collagen fibrils. Unmyelinated fibers have conduction speeds of 0.2 to 2m per second.'
+Clinical: '<b>Regeneration</b> of peripheral nerve after injury appears to be highly dependent on the Schwann cell and its basal lamina. At the distal segment, Schwann cells divide and, when contacted by an axonal, sprout from the proximal end of the nerve, differentiate, and undergo myelin production. Signals from the axon to the Schwann cell determine whether an axon will be myelinated or unmyelinated.'
+Comment: '<b>Comment:</b> The association of Schwann cells to nerve fibers differs between myelinated and unmyelinated nerve fibers. In the PNS, nerve fibers of small diameter composed of both axons and dendrites are grouped together by a Schwann cell that either completely or partially envelops them in groove-like invaginations that are open to the surface. Schwann cells associated with unmyelinated fibers may invest as many as 20 nerve fibers, and their entire outer surface is covered by a basal lamina. The surrounding endoneurial connective tissue contains collagen fibrils. Unmyelinated fibers have conduction speeds of 0.2 to 2m per second.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::5_Nervous_Tissue::Peripheral_Nerve'
 
