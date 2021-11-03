@@ -6,8 +6,8 @@ noteid: '1555354533523'
 Title: 'Stratified Epithelium'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.55.58 PM.png">'
-Clinical: '<img src="paste-77fe40cdc1f6398174101d5ba04cb4bfbcbbbae7.jpg"><br>Urethritis is an inflammation of the urethral lining that can be caused by viral or bacterial infection, or reactions to substances. The infection or irritation causes infiltration of white blood cells and swelling of the submucosa. Without treatment, infections may travel up the urinary tract to the bladder, ureter, or kidneys.'
-Comment: '<img src="paste-61367f1c0ec13d186e72e02297a49c9296c70712.jpg"><br>Comment: Stratified cuboidal and stratified columnar epithelia have a limited distribution in the adult. They both contain 2 or more layers of cells, and because they are stratified, they are primarily protective and better suited to withstand wear-and-tear than simple epithelia. Stratified cuboidal epithelium is usually made of 2 layers of cuboidal cells. It lines the ducts of sweat glands and other exocrine glands. Stratified columnar epithelium is in the pharynx and larynx, conjunctiva of the eyelids, major ducts of exocrine glands, and parts of the male urethra. It also occurs at sites of epithelial transition, where it is interposed between 2 other types of epithelia. Such epithelial interfaces are abrupt and occur in the epiglottis and recto- anal junction.'
+Clinical: '<b>Urethritis</b> is an inflammation of the urethral lining that can be caused by viral or bacterial infection, or reactions to substances. The infection or irritation causes infiltration of white blood cells and swelling of the submucosa. Without treatment, infections may travel up the urinary tract to the bladder, ureter, or kidneys.'
+Comment: '<b>Comment:</b> Stratified cuboidal and stratified columnar epithelia have a limited distribution in the adult. They both contain 2 or more layers of cells, and because they are stratified, they are primarily protective and better suited to withstand wear-and-tear than simple epithelia. Stratified cuboidal epithelium is usually made of 2 layers of cuboidal cells. It lines the ducts of sweat glands and other exocrine glands. Stratified columnar epithelium is in the pharynx and larynx, conjunctiva of the eyelids, major ducts of exocrine glands, and parts of the male urethra. It also occurs at sites of epithelial transition, where it is interposed between 2 other types of epithelia. Such epithelial interfaces are abrupt and occur in the epiglottis and recto- anal junction.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Stratified_Epithelium'
 
