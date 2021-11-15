@@ -6,8 +6,8 @@ noteid: '1555353804517'
 Title: 'Inclusions'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.43.44 PM.png">'
-Clinical: '<img src="paste-3b62a15dcb2fb77b9a708e9eafefc5599755367a.jpg"><br>Glycogen storage disease (GSD) is a group of more than 10 inherited “inborn errors of metabolism” that affect the synthesis or breakdown of glycogen. These autosomal recessive disorders typically occur in childhood.  von Gierke disease (or Type | GSD) is a deficiency of the enzyme glucose-6-phosphatase. It leads to an abnormal accumulation of glycogen in muscle and liver cells, which causes clinically significant end-organ disease and morbidity.'
-Comment: '<img src="paste-f2fda2fd8684d9778c64ad04930423df7e283c65.jpg"><br>Comment: Glycogen—a cytoplasmic inclusion—appears as small, electron-dense particles (20 to 40 nm in diameter). They are free in the cytoplasm and are not membrane-bound. Aggregates of glycogen particles form irregular patches known as alpha particles (or rosettes). Glycogen—a d-glucose polymer—is stored mostly in the cytoplasm of hepatocytes of the liver and skeletal muscle fibers. It also occurs in smaller amounts in cells of other tissues. Synthesis, storage, and breakdown of glycogen occur rapidly according to need. By light microscopy, glycogen can be visualized with the periodic acid-Schiff stain.'
+Clinical: '<b>Glycogen storage disease (GSD)</b> is a group of more than 10 inherited “inborn errors of metabolism” that affect the synthesis or breakdown of glycogen. These <b>autosomal recessive disorders</b> typically occur in childhood.<br><br><b>von Gierke disease (or Type | GSD)</b> is a deficiency of the enzyme glucose-6-phosphatase. It leads to an abnormal accumulation of glycogen in muscle and liver cells, which causes clinically significant end-organ disease and morbidity.'
+Comment: '<b>Comment:</b> Glycogen—a cytoplasmic inclusion—appears as small, electron-dense particles (20 to 40 nm in diameter). They are free in the cytoplasm and are not membrane-bound. Aggregates of glycogen particles form irregular patches known as alpha particles (or rosettes). Glycogen—a d-glucose polymer—is stored mostly in the cytoplasm of hepatocytes of the liver and skeletal muscle fibers. It also occurs in smaller amounts in cells of other tissues. Synthesis, storage, and breakdown of glycogen occur rapidly according to need. By light microscopy, glycogen can be visualized with the <i>periodic acid-Schiff</i> stain.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::1_The_Cell::Inclusions'
 
