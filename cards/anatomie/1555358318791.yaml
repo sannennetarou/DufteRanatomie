@@ -6,8 +6,8 @@ noteid: '1555358318791'
 Title: 'Articular Hyaline Cartilage'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.00.14 PM.png">'
-Clinical: '<img src="paste-92ff0e91966d34e8f3437bdbf5ea6171d158f6e7.jpg"><br>Osteoarthritis is the most common form of arthritis and is primarily a disease of articular cartilage. It is marked by degradation of the cartilage matrix and altered chondrocyte metabolism due to a decreased glycosaminoglycan content in the matrix accompanied by increased water content. Enhanced matrix metalloproteinase enzyme activity appears to play a role in the degradation of the cartilage.'
-Comment: '<img src="paste-547a54efef5461099babe92a64efba139c096800.jpg"><br>Comment: Cartilage is a specialized connective tissue consisting of three types: hyaline, elastic, and fibrocartilage. Hyaline cartilage is the most common and characteristic type. It is associated with joints, growth plates, and sutures of bones and provides a semirigid support to the walls of the upper airways in the respiratory tract. Articular hyaline cartilage consists of 4 poorly demarcated zones. The uppermost superficial zone of cartilage forms the gliding surface of the joint. Small rounded chondrocytes are oriented parallel to the surface, whereas in deeper zones the chondrocytes are larger, more rounded, and arranged in vertical columns. The deepest zone contains calcified cartilage, which separates the hyaline cartilage from subchondral bone.'
+Clinical: '<b>Osteoarthritis</b> is the most common form of arthritis and is primarily a disease of articular cartilage. It is marked by <b>degradation of the cartilage matrix</b> and altered chondrocyte metabolism due to a decreased glycosaminoglycan content in the matrix accompanied by increased water content. Enhanced matrix metalloproteinase enzyme activity appears to play a role in the degradation of the cartilage.'
+Comment: '<b>Comment:</b> Cartilage is a specialized connective tissue consisting of three types: hyaline, elastic, and fibrocartilage. Hyaline cartilage is the most common and characteristic type. It is associated with joints, growth plates, and sutures of bones and provides a semirigid support to the walls of the upper airways in the respiratory tract. Articular hyaline cartilage consists of 4 poorly demarcated zones. The uppermost superficial zone of cartilage forms the gliding surface of the joint. Small rounded chondrocytes are oriented parallel to the surface, whereas in deeper zones the chondrocytes are larger, more rounded, and arranged in vertical columns. The deepest zone contains calcified cartilage, which separates the hyaline cartilage from subchondral bone.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::6_Cartilage_and_Bone::Articular_Hyaline_Cartilage'
 
