@@ -6,8 +6,8 @@ noteid: '1555353677596'
 Title: 'Golgi Complex'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.41.39 PM.png">'
-Clinical: '<img src="paste-e4beadb82a76a032a7b14363abe0e16908bbc64a.jpg"><br>Disassembly of the Golgi complex occurs in cells undergoing apoptosis (or programmed cell death) whereby extensive and irreversible fragmentation of this organelle forms small tubulo- vesicular components. This feature is probably due to a caspase- related cleavage of integral Golgi tethering proteins. Caspases are proteases in the cytoplasm that become activated early in apoptosis.'
-Comment: '<img src="paste-2f492fbe27d3a13858665fe776f38f123f65c813.jpg"><br>Comment: The Golgi complex (or apparatus) is a complex array of flattened, slightly curved, closely packed membrane-bound sacs. This highly polarized, compartmentalized organelle has convex and concave sides and 3 functionally distinct compartments: a cis-Golgi network of vesicles on the convex side, a medial compartment of stacks of flattened saccules, and on the concave side a trans-Golgi network of vesicles and vacuoles for distribution and sorting of secretory products. Each saccule in the medial compartment contains a different group of processing enzymes that reside in its membranes as integral membrane proteins. Some cells have 1 Golgi complex; others, which actively synthesize proteins and polysaccharides, have many. The Golgi complex adds proteins to sugars to form glycoproteins, assembles polysaccharides, elaborates membrane lipids, and produces lysosomes that are kept by cells.'
+Clinical: '<b>Disassembly of the Golgi complex</b> occurs in cells undergoing apoptosis (or programmed cell death) whereby extensive and irreversible fragmentation of this organelle forms small tubulovesicular components. This feature is probably due to a caspase-related cleavage of integral Golgi tethering proteins. Caspases are proteases in the cytoplasm that become activated early in apoptosis.'
+Comment: '<b>Comment:</b> The Golgi complex (or apparatus) is a complex array of flattened, slightly curved, closely packed membrane-bound sacs. This highly polarized, compartmentalized organelle has convex and concave sides and 3 functionally distinct compartments: a <i>cis</i>-Golgi network of vesicles on the convex side, a medial compartment of stacks of flattened saccules, and on the concave side a <i>trans</i>-Golgi network of vesicles and vacuoles for distribution and sorting of secretory products. Each saccule in the medial compartment contains a different group of processing enzymes that reside in its membranes as integral membrane proteins. Some cells have 1 Golgi complex; others, which actively synthesize proteins and polysaccharides, have many. The Golgi complex adds proteins to sugars to form glycoproteins, assembles polysaccharides, elaborates membrane lipids, and produces lysosomes that are kept by cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::1_The_Cell::Golgi_Complex'
 
