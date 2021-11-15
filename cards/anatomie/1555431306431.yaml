@@ -6,8 +6,8 @@ noteid: '1555431306431'
 Title: 'Duodenum'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.15.49 AM.png">'
-Clinical: '<img src="paste-87135783f91ef7b982e76ca6979cbc4e593e5cd5.jpg"><br>Most peptic ulcers affect the proximal part of the duodenum. They begin in the mucosa and, in chronic states, extend into underlying layers, where they may perforate the serosa. They may be caused by exposure to acid and proteolytic enzymes, infection with Helibacter pylori bacteria, or use of nonsteroidal anti-inflammatory drugs (NSAIDs).'
-Comment: '<img src="paste-c1b454a174f3d5a5b3030f94aba06490bc2739d9.jpg"><br>Comment: The horseshoe-shaped duodenum is the shortest of the 3 segments of the small intestine. The mucosa has broad, leaf- shaped villi, and crypts are lined by simple columnar epithelium made of enterocytes and goblet cells. Mucus-secreting glands of Brunner are in the proximal duodenum. These compound tubular glands have secretory acini located in the submucosa. They pierce the muscularis mucosae and drain via short ducts into bases of the crypts in the mucosa. Alkaline mucus produced by the glands protects the mucosa from damage or erosion.'
+Clinical: 'Most <b>peptic ulcers</b> affect the proximal part of the duodenum. They begin in the mucosa and, in chronic states, extend into underlying layers, where they may perforate the serosa. They may be caused by exposure to acid and proteolytic enzymes, infection with <i>Helibacter pylori</i> bacteria, or use of nonsteroidal anti-inflammatory drugs (NSAIDs).'
+Comment: '<b>Comment:</b> The horseshoe-shaped duodenum is the shortest of the 3 segments of the small intestine. The mucosa has broad, leaf- shaped villi, and crypts are lined by simple columnar epithelium made of enterocytes and goblet cells. Mucus-secreting glands of Brunner are in the proximal duodenum. These compound tubular glands have secretory acini located in the submucosa. They pierce the muscularis mucosae and drain via short ducts into bases of the crypts in the mucosa. Alkaline mucus produced by the glands protects the mucosa from damage or erosion.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::13_Lower_Digestive::Duodenum'
 
