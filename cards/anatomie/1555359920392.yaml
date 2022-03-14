@@ -6,8 +6,8 @@ noteid: '1555359920392'
 Title: 'Bone Marrow'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.25.26 PM.png">'
-Clinical: '<img src="paste-a2dbdc78df37976944deadbbc598a7647827ef36.jpg"><br>Bone marrow transplantation is a valuable tool in medicine. Stem cell transplants are used to reconstitute the marrow after chemo- therapy or to replace primary loss of stem cells in disease. Transplantation can be either autologous (own marrow saved before treatment) or allogenic (MHC matched donor marrow).'
-Comment: '<img src="paste-2748b4f52f7bb10a0fbd366ad467c64e4e7d2f7b.jpg"><br>Comment: Bone marrow is a special form of connective tissue. It consists of a stroma of loose reticular connective tissue and a parenchyma of hematopoietic cells arranged as irregular cellular cords or islands separated by thin-walled venous sinusoids. Two methods used to sample and examine bone marrow are smears and trephine needle biopsies for preparation of bone marrow sections. The optimal site for both bone marrow aspiration and needle biopsy is the posterior iliac crest. Other sites include the sternum and tibia. Bone marrow is the site of hematopoiesis after birth. It can be divided into erythropoiesis, granulocytopoiesis, monocytopoiesis, lymphocytopoiesis, and thrombocytopoiesis.'
+Clinical: '<b>Bone marrow transplantation</b> is a valuable tool in medicine. Stem cell transplants are used to reconstitute the marrow after <b>chemotherapy</b> or to replace primary loss of stem cells in disease. Transplantation can be either <b>autologous</b> (own marrow saved before treatment) or <b>allogenic</b> (MHC matched donor marrow).'
+Comment: '<b>Comment:</b> Bone marrow is a special form of connective tissue. It consists of a stroma of loose reticular connective tissue and a parenchyma of hematopoietic cells arranged as irregular cellular cords or islands separated by thin-walled venous sinusoids. Two methods used to sample and examine bone marrow are smears and trephine needle biopsies for preparation of bone marrow sections. The optimal site for both bone marrow aspiration and needle biopsy is the posterior iliac crest. Other sites include the sternum and tibia. Bone marrow is the site of hematopoiesis after birth. It can be divided into erythropoiesis, granulocytopoiesis, monocytopoiesis, lymphocytopoiesis, and thrombocytopoiesis.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::7_Blood_and_Bone_Marrow::Bone_Marrow'
 
