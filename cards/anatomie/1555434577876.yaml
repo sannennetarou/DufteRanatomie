@@ -6,8 +6,8 @@ noteid: '1555434577876'
 Title: 'Pulmonary Alveoli'
 
 OccludedImage: '<img src="paste-9a8f8c56685f47a57a47fe7d5dfd3b0d1cfaad9b.jpg">'
-Clinical: '<img src="paste-0f872d371fa69ceb8c6a2a7521ce63562568939e.jpg"><br>Pneumonia is an inflammation of one or both lungs due to infection with bacteria, viruses, or other pathogens. Pulmonary alveoli often become inflamed, and their lumina fill with fluid. Symptoms include cough, difficulty in breathing, fever, and chest pain. Pneumocystic carnii pneumonia, caused by a fungus, primarily affects people with immune disorders, such as acquired immunodeficiency syndrome (AIDS).'
-Comment: '<img src="paste-f5408c030633df98cbb456aaa0b83bd37e17e99e.jpg"><br>Comment: Although poorly appreciated in conventional hematoxylin and eosin sections, pulmonary alveoli give a honeycomb appearance to the lungs. They are cup-shaped air pockets (200 um to 250 um in diameter), which are lined by a simple squamous epithelium composed of 2 kinds of pneumocytes. Adjacent alveoli are separated by interalveolar septa, which contain a delicate connective tissue stroma with many elastic fibers. A network of pulmonary capillaries courses in the interalveolar septa. Type | pneumocytes are flattened, and type II pneumocytes are more cuboidal. Alveolar dust cells are monocyte-derived macrophages that engulf dust particles, bacteria, and other pathogens. In adults, each lung contains up to 300 million pulmonary alveoli.'
+Clinical: '<b>Pneumonia</b> is an inflammation of one or both lungs due to infection with bacteria, viruses, or other pathogens. Pulmonary alveoli often become inflamed, and their lumina fill with fluid. Symptoms include cough, difficulty in breathing, fever, and chest pain. <b>Pneumocystic carnii pneumonia</b>, caused by a fungus, primarily affects people with immune disorders, such as <b>acquired immunodeficiency syndrome (AIDS)</b>.'
+Comment: '<b>Comment:</b> Although poorly appreciated in conventional hematoxylin and eosin sections, pulmonary alveoli give a honeycomb appearance to the lungs. They are cup-shaped air pockets (200 μm to 250 μm in diameter), which are lined by a simple squamous epithelium composed of 2 kinds of pneumocytes. Adjacent alveoli are separated by interalveolar septa, which contain a delicate connective tissue stroma with many elastic fibers. A network of pulmonary capillaries courses in the interalveolar septa. Type I pneumocytes are flattened, and type II pneumocytes are more cuboidal. Alveolar dust cells are monocyte-derived macrophages that engulf dust particles, bacteria, and other pathogens. In adults, each lung contains up to 300 million pulmonary alveoli.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::15_Respiratory::Pulmonary_Alveoli'
 
