@@ -6,8 +6,8 @@ noteid: '1555434671796'
 Title: 'Blood-Air Barrier'
 
 OccludedImage: '<img src="paste-6353feec3757567c38f4165f0fd613fdd9361fb2.jpg">'
-Clinical: '<img src="paste-e3994ce1984268921e85e153a95a4649dd6c555b.jpg"><br>Pulmonary tuberculosis (TB) is a contagious disease spread from person-to-person through the air by coughing or sneezing. It is caused by Mycobacterium tuberculosis, an aerobic bacillus, whereby initial infection is anywhere in the lungs and leads to an initial cellular immune response. Diagnosis is by chest radiograph and microscopic demonstration of the bacillus in cultured sputum specimens.'
-Comment: '<img src="paste-60a67577df18a584f85951482a3a492875cf932f.jpg"><br>Comment: The blood-air barrier (or alveolar-capillary membrane) in the lung is permeable to gaseous diffusion. It consists of capillary endothelial cell, type | pneumocyte, and their fused basal laminae. In this region, a distance of 2 um or less separates air in the alveolus from blood in the pulmonary capillary. A thin layer of surfactant also covers the alveolar surface. The ends of adjacent type | pneumocytes partially overlap like shingles and are sealed by tight junctions, which prevent fluid leakage. Tight junctions also link adjacent pulmonary capillary endothelial cells. Numerous pinocytotic vesicles in the attenuated endothelium are consistent with active transport of some fluid and solutes.'
+Clinical: '<b>Pulmonary tuberculosis (TB)</b> is a contagious disease spread from person-to-person through the air by coughing or sneezing. It is caused by <i>Mycobacterium tuberculosis</i>, an aerobic bacillus, whereby initial infection is anywhere in the lungs and leads to an initial cellular immune response. Diagnosis is by chest radiograph and microscopic demonstration of the bacillus in cultured sputum specimens.'
+Comment: '<b>Comment:</b> The blood-air barrier (or alveolar-capillary membrane) in the lung is permeable to gaseous diffusion. It consists of capillary endothelial cell, type I pneumocyte, and their fused basal laminae. In this region, a distance of 2 μm or less separates air in the alveolus from blood in the pulmonary capillary. A thin layer of surfactant also covers the alveolar surface. The ends of adjacent type I pneumocytes partially overlap like shingles and are sealed by tight junctions, which prevent fluid leakage. Tight junctions also link adjacent pulmonary capillary endothelial cells. Numerous pinocytotic vesicles in the attenuated endothelium are consistent with active transport of some fluid and solutes.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::15_Respiratory::Blood-Air_Barrier'
 
