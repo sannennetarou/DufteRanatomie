@@ -6,8 +6,8 @@ noteid: '1555440077859'
 Title: 'Organ of Corti'
 
 OccludedImage: '<img src="paste-0f648b0d4202d0cb92d919a964b5f89ed05eb834.jpg">'
-Clinical: '<img src="paste-1e4ceec4a78bee7f422e870236c3e21732728657.jpg"><br>Increased pressure in endolymph may lead to Méniére’s disease whereby distortion of the membranous labyrinth may lead to degeneration of hair cells in both the vestibule and cochlea. Patients have recurrent episodes of vertigo (dizziness), tinnitus (ringing) and low-frequency deafness.'
-Comment: '<img src="paste-29e8552ade801ab3906449a7e6d1b5e79f9a5e38.jpg"><br>Comment: About 15,000 hair cells rest on the basilar membrane in each organ of Corti. Hair cells are arranged segmentally in 2 groups—a single row of inner hair cells and 3 rows of outer hair cells. Ultrastructurally, there are 2 different types of hair cells (I and ll). They are polarized cells with apical stereocilia that project into the lumen of the cochlear duct. Stereocilia of the tallest hair cells protrude into the gelatinous and resilient tectorial membrane. Stereocilia of inner hair cells are organized as u-shaped bundles, whereas those of outer hair cells display a v- or w-shaped pattern. Synapsing at their bases are afferent and efferent nerve terminals of cranial nerve VIII. Their bases are also embedded in recesses formed by adjacent supporting cells.'
+Clinical: 'Increased pressure in endolymph may lead to <b>Méni<span style="color: rgb(77, 81, 86);">è</span>re’s disease</b> whereby distortion of the membranous labyrinth may lead to degeneration of hair cells in both the vestibule and cochlea. Patients have recurrent episodes of <b>vertigo</b> (dizziness), <b>tinnitus</b> (ringing) and low-frequency <b>deafness</b>.'
+Comment: '<b>Comment:</b> About 15,000 hair cells rest on the basilar membrane in each organ of Corti. Hair cells are arranged segmentally in 2 groups—a single row of inner hair cells and 3 rows of outer hair cells. Ultrastructurally, there are 2 different types of hair cells (I and II). They are polarized cells with apical stereocilia that project into the lumen of the cochlear duct. Stereocilia of the tallest hair cells protrude into the gelatinous and resilient tectorial membrane. Stereocilia of inner hair cells are organized as u-shaped bundles, whereas those of outer hair cells display a v- or w-shaped pattern. Synapsing at their bases are afferent and efferent nerve terminals of cranial nerve VIII. Their bases are also embedded in recesses formed by adjacent supporting cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Organ_of_Corti'
 
