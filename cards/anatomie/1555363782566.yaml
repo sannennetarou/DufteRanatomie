@@ -6,8 +6,8 @@ noteid: '1555363782566'
 Title: 'Parathyroid'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.29.58 PM.png">'
-Clinical: '<img src="paste-f1cd33c32600705fd5e6b51f5088e973fe9f4f5c.jpg"><br>Primary hyperparathyroidism is usually caused by an adenoma of 1 or more parathyroid glands. These tumors are composed of tightly packed sheets of predominantly chief cells, which are interspersed  with multinuclear giant cells.'
-Comment: '<img src="paste-374d1048779db4c5e553c02c720f40f47ca23046.jpg"><br>Comment: The parathyroid synthesizes and secretes parathyroid hormone (PTH), which maintains calcium levels in the blood by increasing the rate of osteoclastic activity, thereby mobilizing calcium from bone. The parenchyma is composed of 2 types of cells in the adult—chief cells and oxyphils. Chief cells are more numerous, whereas oxyphils appear after the first decade of life. Chief cells are polyhedral in shape and slightly eosinophilic. They form irregular, anastamosing cords supported by delicate connective issue.  They are the source of PTH and have features of other endocrine secretory cells, being closely related to an extensive network of surrounding capillaries. Oxyphils are larger, more acidophilic cells, which are irregularly distributed and occur singly or in clumps.  They are thought to be nonsecretory cells.'
+Clinical: '<b>Primary hyperparathyroidism</b> is usually caused by an <b>adenoma</b> of 1 or more parathyroid glands. These tumors are composed of tightly packed sheets of predominantly chief cells, which are interspersed  with multinuclear giant cells.'
+Comment: '<b>Comment:</b> The parathyroid synthesizes and secretes parathyroid hormone (PTH), which maintains calcium levels in the blood by increasing the rate of osteoclastic activity, thereby mobilizing calcium from bone. The parenchyma is composed of 2 types of cells in the adult—chief cells and oxyphils. Chief cells are more numerous, whereas oxyphils appear after the first decade of life. Chief cells are polyhedral in shape and slightly eosinophilic. They form irregular, anastamosing cords supported by delicate connective issue.  They are the source of PTH and have features of other endocrine secretory cells, being closely related to an extensive network of surrounding capillaries. Oxyphils are larger, more acidophilic cells, which are irregularly distributed and occur singly or in clumps.  They are thought to be nonsecretory cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::10_Endocrine::Parathyroid'
 
