@@ -6,8 +6,8 @@ noteid: '1555358003438'
 Title: 'Choroid Plexus'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.53.32 PM.png">'
-Clinical: '<img src="paste-8f5d902548a73206028e30017cbfa414833ff414.jpg"><br>Ependymomas are glial tumors arising from ependymal cells within the CNS. They are classified into 1 of 4 subtypes and represent 6% to 9% of primary CNS neoplasms. Intracranial lesions usually occur in children, arising from the roof of the 4th ventricle, whereas spinal cord ependymomas typically occur in adults.'
-Comment: '<img src="paste-80b323ce4168d06f65f65d576f17325921cc8396.jpg"><br>Comment: The choroid plexus is a specialized tissue in the roof of the third and fourth ventricles and the walls of the lateral ventricles. It produces cerebrospinal fluid (CSF), which circulates within the ventricles, central canal of the spinal cord, and subarachnoid space. The choroid plexus consists of highly branched, leaf-like folds of vascularized pia mater covered by a modified ependyma (simple cuboidal or low columnar), which is a highly secretory and ion- transporting epithelium. It rests on a thin basement membrane. A core of loose connective tissue of the pia contains large, fenestrated capillaries that are highly permeable.'
+Clinical: '<b>Ependymomas</b> are glial tumors arising from ependymal cells within the CNS. They are classified into 1 of 4 subtypes and represent 6% to 9% of primary CNS neoplasms. Intracranial lesions usually occur in children, arising from the roof of the 4th ventricle, whereas spinal cord ependymomas typically occur in adults.'
+Comment: '<b>Comment:</b> The choroid plexus is a specialized tissue in the roof of the third and fourth ventricles and the walls of the lateral ventricles. It produces cerebrospinal fluid (CSF), which circulates within the ventricles, central canal of the spinal cord, and subarachnoid space. The choroid plexus consists of highly branched, leaf-like folds of vascularized pia mater covered by a modified ependyma (simple cuboidal or low columnar), which is a highly secretory and ion- transporting epithelium. It rests on a thin basement membrane. A core of loose connective tissue of the pia contains large, fenestrated capillaries that are highly permeable.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::5_Nervous_Tissue::Choroid_Plexus'
 
