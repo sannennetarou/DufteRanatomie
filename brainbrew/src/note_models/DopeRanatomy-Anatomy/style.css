@@ -30,10 +30,10 @@ b { color: #BF616A; } /* BOLD STYLE */
 
 
 u { text-decoration: none; color: #2E3440;
-      background-color: #E5E9F0;}  /* UNDERLINE STYLE */
+      background-color: #ECEFF4;}  /* UNDERLINE STYLE */
 .nightMode
 u { text-decoration: none; color: #E5E9F0;
-      background-color: #3B4252}  /* UNDERLINE STYLE */
+      background-color: #2E3440}  /* UNDERLINE STYLE */
 
 
 i { color: #88C0D0; }  /* UNDERLINE STYLE */
