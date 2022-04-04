@@ -6,8 +6,8 @@ noteid: '1555437635583'
 Title: 'Mammary Gland'
 
 OccludedImage: '<img src="paste-766f212dccec5918e076a9e683c3cc90197c0499.jpg">'
-Clinical: '<img src="paste-cd005b03f65415f1a5b0d19d4f1e0bded0600922.jpg"><br>Since most breast cancers, which may occur in both men and women, arise from ductal or alveolar epithelium, they are known as mammary adenocarcinomas. Most are invasive lesions called infiltrating ductal carcinomas. Prognosis depends on tumor growth pattern, expression of gene products, and hormone receptors, and metastasis to regional lymph nodes or other sites.'
-Comment: '<img src="paste-2282057f5cad8dd69a8faf164d2883788abbbbc1.jpg"><br>Comment: The paired mammary glands are modified apocrine sweat glands present in both males and females. In women who give birth, they are specialized exocrine glands that secrete milk. Each mammary gland consists of parenchyma derived from surface ectoderm and connective tissue stroma that arises from mesenchyme. The parenchyma is formed from a series of ducts that retain their connection to the surface. At puberty, mammary glands in girls undergo histologic changes under the influence of the ovarian hormones estrogen and progesterone. If pregnancy occurs in adulthood, the terminal ends of the ducts develop into hollow secretory alveoli lined by simple cuboidal epithelium.'
+Clinical: 'Since most <b>breast cancers</b>, which may occur in both men and women, arise from ductal or alveolar epithelium, they are known as <b>mammary adenocarcinomas</b>. Most are invasive lesions called <b>infiltrating ductal carcinomas</b>. Prognosis depends on tumor growth pattern, expression of gene products, and hormone receptors, and <b>metastasis</b> to regional lymph nodes or other sites.'
+Comment: '<b>Comment:</b> The paired mammary glands are modified apocrine sweat glands present in both males and females. In women who give birth, they are specialized exocrine glands that secrete milk. Each mammary gland consists of parenchyma derived from surface ectoderm and connective tissue stroma that arises from mesenchyme. The parenchyma is formed from a series of ducts that retain their connection to the surface. At puberty, mammary glands in girls undergo histologic changes under the influence of the ovarian hormones estrogen and progesterone. If pregnancy occurs in adulthood, the terminal ends of the ducts develop into hollow secretory alveoli lined by simple cuboidal epithelium.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Mammary_Gland'
 
