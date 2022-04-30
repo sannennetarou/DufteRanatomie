@@ -1,5 +1,7 @@
 # News
-Da CrowdAnki auf der aktuellen Anki-Version (2.1.50 Qt6, evtl. auch auf 2.1.49) **NICHT** funktioniert, ist ein Import der Decks auf dieser Version (ab April 2022) zur Zeit leider nicht möglich. Zur Verwaltung kann die Repo jedoch nach wie vor benutzt werden.
+Da CrowdAnki auf der aktuellen Anki-Version (2.1.50) **NICHT** funktioniert, ist ein Import der Decks auf dieser Version zur Zeit leider nicht möglich. Zur Verwaltung kann die Repo jedoch nach wie vor benutzt werden. Hier der Thread [hier](https://github.com/Stvad/CrowdAnki/issues/166).
+
+Wem dieses Feature wichtig ist rate ich, bei Version <2.1.49 zu bleiben.
 
 # DufteRanatomie
 Ziel des Projekts ist eine Übersetzung des Anatomie- und Kadaver-Decks [DopeRanatomy](https://www.reddit.com/r/medicalschoolanki/comments/gx128c/fully_tagged_dope_anatomy/) und des Histologie-Decks [Navicularis](https://www.reddit.com/r/medicalschoolanki/comments/beg21n/navis_histology/) ins Deutsche.
