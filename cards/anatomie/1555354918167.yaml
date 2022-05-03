@@ -6,8 +6,8 @@ noteid: '1555354918167'
 Title: 'Mammary Gland'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.02.28 PM.png">'
-Clinical: '<img src="paste-85244c663ccf603ca8c173b3ac39ba43afdb86e2.jpg"><br>Breast cancer, or mammary carcinoma, is the most common malignancy in women, and usually occurs after menopause. Most invasive primary breast cancers are adenocarcinomas. They arise from the epithelium of the lactiferous ducts, and may penetrate the basement membrane and proliferate into the surrounding stroma.'
-Comment: '<img src="paste-d096d074d4cd5925485306ca44dba9747912c38d.jpg"><br>Comment: Each mammary gland consists of 12 to 20 irregular lobes, each lobe consisting of a compound tubulo-alveolar gland. The size, shape, and histologic structure of these glands change with age and functional status of the reproductive system. During pregnancy, the simple cuboidal epithelium that lines the alveoli undergoes hyperplasia and hypertrophy under stimulation of prolactin. Branching myoepithelial cells that enwrap the alveoli contract in response to oxytocin to eject milk.'
+Clinical: '<strong>Breast cancer</strong>, or <strong>mammary carcinoma</strong>, is the most common malignancy in women, and usually occurs after menopause. Most invasive primary breast cancers are <strong>adenocarcinomas</strong>. They arise from the epithelium of the lactiferous ducts, and may penetrate the basement membrane and proliferate into the surrounding stroma.'
+Comment: '<strong>Comment:</strong> Each mammary gland consists of 12 to 20 irregular lobes, each lobe consisting of a compound tubulo-alveolar gland. The size, shape, and histologic structure of these glands change with age and functional status of the reproductive system. During pregnancy, the simple cuboidal epithelium that lines the alveoli undergoes hyperplasia and hypertrophy under stimulation of prolactin. Branching myoepithelial cells that enwrap the alveoli contract in response to oxytocin to eject milk.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Mammary_Gland'
 
