@@ -1,5 +1,5 @@
 # News
-Da CrowdAnki auf der aktuellen Anki-Version (2.1.50) **NICHT** funktioniert, ist ein Import der Decks auf dieser Version zur Zeit leider nicht möglich. Zur Verwaltung kann die Repo jedoch nach wie vor benutzt werden. [Hier der Thread](https://github.com/Stvad/CrowdAnki/issues/166).
+Da CrowdAnki auf der aktuellen Anki-Versionen (2.1.50+) **NICHT** funktioniert, ist ein Crowdanki-Import der Decks auf dieser Version zur Zeit leider nicht möglich. Zur Verwaltung kann die Repo jedoch nach wie vor benutzt werden. [Hier der Thread](https://github.com/Stvad/CrowdAnki/issues/166).
 
 Wem dieses Feature wichtig ist rate ich, bei Version <=2.1.49 zu bleiben.
 
